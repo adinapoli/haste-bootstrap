@@ -1,4 +1,4 @@
-# haste-boostrap
+# haste-bootstrap
 
 haste-bootstrap is an experimental module to use Twitter's Bootstrap with the
 Haste compiler. The long term plan is to use this module into a
